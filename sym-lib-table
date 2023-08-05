@@ -2,4 +2,5 @@
   (lib (name "FE2.1")(type "KiCad")(uri "${KIPRJMOD}/Symble/FE2.1 .kicad_sym")(options "")(descr ""))
   (lib (name "GL823K")(type "KiCad")(uri "${KIPRJMOD}/Symble/GL823K.kicad_sym")(options "")(descr ""))
   (lib (name "SDCard")(type "KiCad")(uri "${KIPRJMOD}/Symble/SDCard.kicad_sym")(options "")(descr ""))
+  (lib (name "1CommonUse")(type "KiCad")(uri "${KIPRJMOD}/Symble/1CommonUse.kicad_sym")(options "")(descr ""))
 )
